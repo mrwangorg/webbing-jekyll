@@ -1,0 +1,159 @@
+- name: 域名商店
+  icon: linecons-shop
+  links:
+      - title: 此域名可转让
+        logo:
+        url: https://dan.com/domain-seller/domain-seller-2419026a-4372-489c-a361-49d27de5a1b2
+        description: 点击查看完整域名出售列表
+      - title: This domain is for sale.
+        logo:
+        url: https://dan.com/domain-seller/domain-seller-2419026a-4372-489c-a361-49d27de5a1b2
+        description: Click to view the full list of domain names.
+
+- name: 世界资讯
+  icon: linecons-doc
+  links:
+      - title: Twitter
+        logo:
+        url: https://www.twitter.com/
+        description: 国内外最新资讯来源
+      - title: Youtube
+        logo:
+        url: https://www.youtube.com/
+        description: 影片资讯来源
+      - title: Instagram
+        logo:
+        url: https://www.instagram.com/
+        description: 图片资讯站
+      - title: Reddit
+        logo:
+        url: https://www.reddit.com/
+        description: 资讯与社区讨论
+      - title: Telegram
+        logo:
+        url: https://web.telegram.org/
+        description: 安全的无审查社交软件 (注意防骗与隐私)
+      - title: Buzzing
+        logo:
+        url: https://www.buzzing.cc/
+        description: 中文获取世界聚合新闻
+
+- name: 探索地球
+  icon: linecons-globe
+  links:
+      - title: Google 地图
+        logo:
+        url: https://www.google.com/maps
+        description: 我最常用的地图平台
+      - title: Google 地球
+        logo:
+        url: https://earth.google.com/web/
+        description: 真·探索地球最好的工具
+      - title: DDG 地图 (Apple Maps 源)
+        logo:
+        url: https://duckduckgo.com/?q=map&t=h_&ia=web&iaxm=maps
+        description: Windows 端 Apple Maps 网页版
+      - title: OpenStreetMap
+        logo:
+        url: https://www.openstreetmap.org/
+        description: 开放地图平台，人人可编辑
+      - title: SnapChat 地图
+        logo:
+        url: https://map.snapchat.com/
+        description: 可以看地点附近人发送的 SnapChat 图片
+      - title: Worldwind
+        logo:
+        url: https://worldwind.earth/explorer/
+        description: NASA Worldwind 卫星地图
+      - title: 古地图集
+        logo:
+        url: https://www.davidrumsey.com/
+        description: 大佬搜集的世界古地图并且可重叠在地球仪上观察
+      - title: Wikimapia
+        logo:
+        url: https://wikimapia.org/
+        description: 可定向探索地图信息
+      - title: Bing Maps
+        logo:
+        url: https://www.bing.com/maps/
+        description: 微软家的地图，不太常用
+      - title: 天地图 (.gov.cn)
+        logo:
+        url: https://map.tianditu.gov.cn/
+        description: 只用来测面积
+      - title: WGS84↔GCJ02 坐标转换
+        logo:
+        url: http://www.metools.info/learn/gpsconvert203.html
+        description: 地球与火星特色经纬度坐标转换
+      - title: WGS84↔GCJ02 坐标转换
+        logo:
+        url: https://artoria2e5.github.io/PRCoords/demo.html
+        description: 地球与火星特色经纬度坐标转换
+
+- name: 学术期刊
+  icon: linecons-graduation-cap
+  links:
+      - title: CNKI 海外版
+        logo:
+        url: https://chn.oversea.cnki.net/
+        description: 知网海外版
+      - title: LetPub 期刊查询
+        logo:
+        url: http://www.letpub.com.cn/index.php?page=journalapp
+        description: 可查期刊分级
+      - title: 科研通
+        logo:
+        url: https://www.ablesci.com/journal
+        description: 可查期刊分级和影响因子
+      - title: Google 学术
+        logo:
+        url: https://scholar.google.com/
+        description: 巨人的肩膀
+      - title: 百度文库教育版 (需教育网)
+        logo:
+        url: https://eduai.baidu.com/
+        description: 可看大部分收费文库文件
+      - title: Semantic 学术搜索
+        logo:
+        url: https://www.semanticscholar.org/
+        description: Google 学术的补充
+      - title: Connected Papers
+        logo:
+        url: https://www.connectedpapers.com/
+        description: 以文搜文，查询文章的前因后果
+      - title: Chemical Book
+        logo:
+        url: https://www.chemicalbook.com/CASDetailList_0.htm
+        description: 化学药品 CAS 号与性质查询
+      - title: 全球学者库
+        logo:
+        url: http://www.globalauthorid.com/
+        description: 查查大佬都是怎么成为大佬的
+      - title: 免费做图素材
+        logo:
+        url: https://www.scidraw.io/
+        description: 小鼠、神经、细胞、器械之类的免费矢量图素材
+
+- name: 网站域名
+  icon: linecons-desktop
+  links:
+      - title: 十年之约
+        logo:
+        url: https://www.foreverblog.cn/
+        description: 博客十年，人生有多少个十年
+      - title: 开往
+        logo:
+        url: https://github.com/travellings-link/travellings
+        description: 开往下一个博客
+
+- name: 终身学习
+  icon: linecons-lightbulb
+  links:
+      - title: 科林斯辞典
+        logo:
+        url: https://www.collinsdictionary.com/
+        description: 学英语
+      - title: Urban Dictionary
+        logo:
+        url: https://www.urbandictionary.com/
+        description: 学俚语
